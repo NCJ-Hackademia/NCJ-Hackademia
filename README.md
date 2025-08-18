@@ -15,7 +15,7 @@
 ## About the Event
 
 Hackademia 2025 is a 24-hour innovation sprint hosted at **National College Jayanagar**.  
-This year’s theme: **Improving Healthcare Through Technology**.  
+This year’s theme: **OPEN INNOVATION**.  
 With over **50 teams** participating, expect an explosion of ideas, creativity, and collaboration.
 
 ---
