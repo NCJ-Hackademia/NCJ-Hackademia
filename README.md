@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NCJ-Hackademia/Assets/blob/main/HACK%20x%20Algo.png?raw=true" alt="Hackademia Logo" width="400"/>
+  <img src="https://github.com/NCJ-Hackademia/Assets/blob/main/Hackademia-Logo%20(1).png?raw=true" alt="Hackademia Logo" width="400"/>
 </p>
 
 <h1 align="center">Hackademia 2025 – National College Jayanagar</h1>
@@ -16,7 +16,7 @@
 
 ## About the Event  
 
-**Hackademia 2025** is a 24-hour innovation sprint hosted at *National College Jayanagar*.  
+**Hackademia 2025** is a 24-hour innovation sprint hosted at *The National College Jayanagar*.  
 This year’s theme: **OPEN INNOVATION**.  
 
 With 50+ teams participating, expect a high-energy environment filled with ideas, creativity, and collaboration.  
