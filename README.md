@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NCJ-Hackademia/Assets/blob/main/Hackademia-Logo%20-algo.png?raw=true" alt="Hackademia Logo" width="400"/>
+  <img src="https://github.com/NCJ-Hackademia/Assets/blob/main/HACK%20x%20Algo.png?raw=true" alt="Hackademia Logo" width="400"/>
 </p>
 
 <h1 align="center">Hackademia 2025 – National College Jayanagar</h1>
