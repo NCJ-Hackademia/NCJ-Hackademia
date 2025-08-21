@@ -5,7 +5,6 @@
 <h1 align="center">Hackademia 2025 – National College Jayanagar</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Countdown-5%20Days%20to%20Go-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Teams-50+-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Duration-24%20Hours-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-NCJayanagar-green?style=for-the-badge"/>
